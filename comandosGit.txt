@@ -9,7 +9,7 @@ git add .
 git commit -m ""        
 
 //add no repositorio curtytech
-git remote add origin https://github.com/curtytech/needleOffice.git 
+git remote add origin https://github.com/curtytech/ctLibrary.git
 
 //push para upar
 git push -u origin master
