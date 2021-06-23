@@ -1,0 +1,15 @@
+upar
+
+git  init 
+
+//. para upar tudo
+git add .
+       
+//Fazer o comit e colocar o nome
+git commit -m ""        
+
+//add no repositorio curtytech
+git remote add origin https://github.com/curtytech/needleOffice.git 
+
+//push para upar
+git push -u origin master
